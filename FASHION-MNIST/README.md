@@ -42,10 +42,12 @@ Monitor the training progress and view the evaluation results.
 
 Results
 After running the code, you will observe:
+
 ![shoe](https://github.com/DarshanAnand007/DL-CV_Lab-ENG21AM0028/assets/93935699/5c0665bb-977d-4c7b-ba17-334b5fa74a83)
 
-![Uploading Screenshot 2024-03-28 143209.png…]()
+
 ![pullover](https://github.com/DarshanAnand007/DL-CV_Lab-ENG21AM0028/assets/93935699/05469efb-1014-4464-ab48-bbd99d6ec88f)
+
 
 ![Screenshot 2024-03-28 143226](https://github.com/DarshanAnand007/DL-CV_Lab-ENG21AM0028/assets/93935699/70139179-93cf-4968-a58c-cc42c25991c0)
 
